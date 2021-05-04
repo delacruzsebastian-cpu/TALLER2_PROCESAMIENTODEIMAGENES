@@ -1,2 +1,2 @@
-# TALLER2_PROCESAMIENTODEIMAGENES
- En este repositorio se encuentra el desarrollo del taller 2.
+# Proyecto personal de clasifición en procesamiento de imagenes
+En este repositorio se encuentra una pequeña actividad para la clasificación de figuras con opencv.
